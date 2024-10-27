@@ -1,0 +1,16 @@
+{
+    
+    "compilerOptions": {
+        "module": "es6",
+    "target": "es5",    
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true
+    },
+    "ts-node": {
+        "esm": true
+    },
+    "include": ["**/*.ts"],
+    "exclude": ["node_modules"]
+}
