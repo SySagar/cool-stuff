@@ -1,0 +1,3 @@
+[submodule "postgres-concurrent-indexing"]
+	path = postgres-concurrent-indexing
+	url = https://github.com/SySagar/Postgres-Concurrent-Index-Simulation.git
